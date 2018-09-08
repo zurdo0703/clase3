@@ -14,5 +14,6 @@
 11. git config --global user.email "edwinrios@hotmail.com"
 12. git commit :wq guarda en el servidor
 13. git remote add origin https://github.com/zurdo0703/clase3.git sube el repositorio
+13.1. git commit -m "actualizacion el txt"
 14. git push -u origin master
 15. recuperar un archivo git clone https://github.com/zurdo0703/clase3.git
