@@ -17,3 +17,17 @@
 13.1. git commit -m "actualizacion el txt"
 14. git push -u origin master
 15. recuperar un archivo git clone https://github.com/zurdo0703/clase3.git
+
+
+Recomendaciones cmder http://cmder.net/
+
+Manejo de ramas 
+
+git  branch chat Crea una rama
+git checkout chat Ingreso a la rama
+git merge chat Sube la nueva funcionalidad al master donde chat es la copia que se esta asegurando la funcionalidad
+
+git  branch -d chat elimina la rama creada
+
+ssh-keygen -t rsa -b 4096 -C "edwinrios@hotmail.com" Crea una llave ssh
+
